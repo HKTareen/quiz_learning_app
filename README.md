@@ -1,6 +1,12 @@
 # Quiz Learning App
 
-A Flutter application for quiz learning that works on both Web and Mobile platforms.
+## Note: **Architecture and Logics are totally written by hand below features are written via AI Help**
+Profile Section, 
+Randing Page UI tile
+ some repeative tasks like Models and readme files 
+
+Rest of the Work is Totally developed by me.
+Thanks
 
 ## Project Structure
 
