@@ -106,7 +106,6 @@ class ProfilePage extends ConsumerWidget {
                 ],
               ),
             ),
-            const Spacer(),
             const SizedBox(height: 40),
             // Logout Button
             AppButtonWidget(
